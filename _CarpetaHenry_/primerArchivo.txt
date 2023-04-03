@@ -2,3 +2,4 @@ Prueba para realizar push
 Cambio para usar pull
 Edito el archivo en github y se crea el commit
 Asegurando que se tenga el repositorio local abierto
+Ahora se agrega otro cambio para ver el fecth
